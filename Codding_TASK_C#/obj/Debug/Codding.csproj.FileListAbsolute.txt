@@ -1,0 +1,9 @@
+C:\Users\Bolson\source\repos\Codding\Codding\bin\Debug\Codding.exe.config
+C:\Users\Bolson\source\repos\Codding\Codding\bin\Debug\Codding.exe
+C:\Users\Bolson\source\repos\Codding\Codding\bin\Debug\Codding.pdb
+C:\Users\Bolson\source\repos\Codding\Codding\obj\Debug\Codding.csprojResolveAssemblyReference.cache
+C:\Users\Bolson\source\repos\Codding\Codding\obj\Debug\Codding.csproj.CoreCompileInputs.cache
+C:\Users\Bolson\source\repos\Codding\Codding\obj\Debug\Codding.exe
+C:\Users\Bolson\source\repos\Codding\Codding\obj\Debug\Codding.pdb
+C:\Users\Bolson\source\repos\Codding\Codding\bin\Debug\nunit.framework.dll
+C:\Users\Bolson\source\repos\Codding\Codding\bin\Debug\nunit.framework.xml
